@@ -1,8 +1,8 @@
 # AI Driver Drowsiness & Distraction Detection System
 
 ![Project Image 1](images/image2.png)
-![Project Image 1](images/image4.png)
-![Project Image 1](images/image5.png)
+![Project Image 2](images/image4.png)
+![Project Image 3](images/image5.png)
 
 ## 1. Project Overview
 
