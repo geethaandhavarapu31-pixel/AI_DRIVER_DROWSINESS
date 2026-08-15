@@ -1,5 +1,9 @@
 # AI Driver Drowsiness & Distraction Detection System
 
+![Project Image 1](images/image2.png)
+![Project Image 1](images/image4.png)
+![Project Image 1](images/image5.png)
+
 ## 1. Project Overview
 
 The AI Driver Drowsiness & Distraction Detection System is a real-time driver safety prototype designed to identify signs of driver fatigue, yawning, prolonged eye closure, head distraction, and face absence.
